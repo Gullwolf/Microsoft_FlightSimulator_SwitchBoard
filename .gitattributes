@@ -1,2 +1,2 @@
 *.c++ linguist-language=Arduino
-*.cpp linguist-detectable=false
+*.C++ linguist-detectable=false
